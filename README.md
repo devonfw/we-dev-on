@@ -1,0 +1,2 @@
+# we-devonfw
+Devonfw newsletter 
