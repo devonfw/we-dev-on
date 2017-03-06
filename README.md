@@ -1,2 +1,2 @@
-# we-devonfw
+# we-dev-on
 Devonfw newsletter 
