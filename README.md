@@ -1,6 +1,6 @@
 # we-dev-on
 
-![GitHub Logo](img/devonfw-logo-small.png)
+![GitHub Logo](img/devonfw-logo-smaller.png)
 
 This is the Devonfw newsletter. we-dev-on is a reader-supported publication dedicated to producing the best coverage of news, events, tips & tricks from within the devonfw & OASP communities all over Capgemini APPS2.
 
