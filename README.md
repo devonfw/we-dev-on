@@ -3,7 +3,7 @@
 This is the Devonfw newsletter. we-dev-on is a reader-supported publication dedicated to producing the best coverage of news, events, tips & tricks from within the devonfw & OASP communities all over Capgemini APPS2.
 
 ## Issues
-[Friday 10th of March 2017](2017/10-03-2017.asciidoc)
+[Friday 10th of March 2017](2017/10-03-2017.md)
 
 ## License
   Copyright 2017 Capgemini
