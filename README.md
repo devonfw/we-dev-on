@@ -4,7 +4,11 @@
 
 This is the iCSD newsletter. **we-dev-on** is a reader-supported publication for and from the devonfw & OASP communities all over Capgemini APPS2. It deals with current topics in the iCSD space including general news such as approaching releases or upcoming webcasts, but also tips and tricks, (Yammer) discussions, opinions or anything else worth sharing.
 
-## Editions
+## Current Edition
+
+[Wednesday 5th of April 2017](2017/05-04-2017.md)
+
+## Previous Editions
 
 [Friday 10th of March 2017](2017/10-03-2017.md)
 
