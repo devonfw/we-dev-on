@@ -6,9 +6,11 @@ This is the iCSD newsletter. **we-dev-on** is a reader-supported publication for
 
 ## Current Edition
 
-[Friday 7th of July 2017](2017/07-07-2017.md)
+[Wednesday 15th of November 2017](2017/15-11-2017.md)
 
 ## Previous Editions
+
+[Friday 7th of July 2017](2017/07-07-2017.md)
 
 [Friday 12th of May 2017](2017/12-05-2017.md)
 
