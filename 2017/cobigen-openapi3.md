@@ -26,7 +26,7 @@ Just put your Swagger definition file into the core folder of your OASP4J projec
 To be compatible with CobiGen and OASP4J, the Swagger file must follow some specific configurations. This configurations also allows to avoid redundant definitions as SearchCriterias and PaginatedList objects used at the services definitions.
 Just adding the _tags_ property at the end of the service definitions with the items _SearchCriteria_ and/or _paginated_ put into CobiGen knowledge that an standard OASP4J SearchCriteria and/or PaginateListTo object must be generated. That way, the Swagger file will be easier to write and even more understandable.
 
-```src
+```yaml
   /sampledatamanagement/v1/sampledata/customSearch/:
     post:
       summary: 'Delegates to {@link Sampledatamanagement#findSampleDataEtos}.'
@@ -55,7 +55,7 @@ Same criteria is followed for the relationships. Adding the extended properties 
 - x-onetomany
 - x-manytomany
 
-```src
+```yaml
 SampleData:
       x-component: sampledatamanagement
       type: object
